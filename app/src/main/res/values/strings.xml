@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">EcoRecicla</string>
+    <string name="login">Iniciar sesión</string>
+    <string name="email">Ingrese el email</string>
+    <string name="password">Contraseña</string>
+    <string name="register">Registrarse</string>
+    <string name="forgot_password">¿Olvidaste tu contraseña?</string>
+    <string name="name">Nombre</string>
+    <string name="name_completo">Nombre completo</string>
+    <string name="text_email">Email</string>
+    <string name="text_password">Contraseña</string>
+    <string name="confirmar_pass">Confirmar "\n"contraseña</string>
+    <string name="aceptar_terminos">Aceptar terminos y condiciones</string>">
+
+
+</resources>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/gestion_de_reciclaje"
+    tools:context=".Gestion_reciclajeActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="vertical"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="377dp"
+            android:layout_height="53dp"
+            android:layout_marginTop="76dp"
+            android:layout_marginEnd="16dp"
+            android:background="@color/material_dynamic_secondary80"
+            android:backgroundTint="?android:attr/panelBackground"
+            android:text="Gestion de Reciclaje"
+            android:textAlignment="center"
+            android:textAllCaps="false"
+            android:textColor="@color/design_default_color_on_secondary"
+            android:textColorHint="@color/design_default_color_background"
+            android:textColorLink="@color/design_default_color_error"
+            android:textCursorDrawable="@android:drawable/btn_star_big_on"
+            android:textSize="30dp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="1.0"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+
+        <Button
+            android:id="@+id/estadisticas"
+            android:layout_width="200dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="80dp"
+            android:backgroundTint="@color/ocre"
+            android:text="Estadisticas"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.497"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView2" />
+
+        <Button
+            android:layout_width="200dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="50dp"
+            android:backgroundTint="@color/ocre"
+            android:text="Categorias"
+            android:textSize="20dp"
+            android:textStyle="bold"
+            tools:layout_editor_absoluteX="105dp"
+            tools:layout_editor_absoluteY="419dp" />
+
+        <Button
+            android:id="@+id/consejo"
+            android:layout_width="200dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="50dp"
+            android:backgroundTint="@color/ocre"
+            android:text="Consejo"
+            android:textSize="20dp"
+            android:textStyle="bold"
+            tools:layout_editor_absoluteX="105dp"
+            tools:layout_editor_absoluteY="527dp" />
+    </LinearLayout>
+
+
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
