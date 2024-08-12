@@ -12,24 +12,24 @@
 
 ### 1. Pantalla de Inicio de Sesión
 - **Descripción**: Permite a los usuarios iniciar sesión en el sistema utilizando sus credenciales o registrarse como nuevos usuarios.
-- **Imagen**: ![Pantalla de Inicio de Sesión](ruta/a/la/imagen/inicio_sesion.png)
+- **Imagen**: ![Pantalla de Inicio de Sesión](imagen/inicio_sesion.png)
 
 ### 2. Pantalla Principal
 - **Descripción**: Muestra la navegación para acceder a las diferentes secciones del sistema, como las categorías, estadísticas y consejos.
-- **Imagen**: ![Pantalla Principal](ruta/a/la/imagen/pantalla_principal.png)
+- **Imagen**: ![Pantalla Principal](/imagen/pantalla_principal.png)
 
 ### 3. Pantalla de Categorías
 - **Descripción**: Permite al usuario seleccionar la categoría de material que desea registrar y hacer seguimiento, como plástico, papel, vidrio, etc.
-- **Imagen**: ![Pantalla de Categorías](ruta/a/la/imagen/pantalla_categorias.png)
+- **Imagen**: ![Pantalla de Categorías](/imagen/pantalla_categorias.png)
 
 ### 4. Pantalla de Registro
 - **Descripción**: Permite al usuario ingresar los datos de reciclaje para una categoría específica, como la cantidad de kilogramos de plástico reciclados, el número de hojas de papel recicladas, el valor ganado en cada categoría y el mes correspondiente.
-- **Imagen**: ![Pantalla de Registro](ruta/a/la/imagen/pantalla_registro.png)
+- **Imagen**: ![Pantalla de Registro](/imagen/pantalla_registro.png)
 
 ### 5. Pantalla de Estadísticas
 - **Descripción**: Muestra estadísticas detalladas sobre el reciclaje, incluyendo la cantidad promedio, máxima y mínima reciclada para una categoría específica.
-- **Imagen**: ![Pantalla de Estadísticas](ruta/a/la/imagen/pantalla_estadisticas.png)
+- **Imagen**: ![Pantalla de Estadísticas](/imagen/pantalla_estadisticas.png)
 
 ### 6. Pantalla de Consejos
 - **Descripción**: Proporciona consejos y recomendaciones personalizadas para aumentar el reciclaje en función de los datos registrados por el usuario.
-- **Imagen**: ![Pantalla de Consejos](ruta/a/la/imagen/pantalla_consejos.png)
+- **Imagen**: ![Pantalla de Consejos](/imagen/pantalla_consejos.png)
